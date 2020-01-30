@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Sumit K. Prasad | Home</title>
+    <title>Sumit K. Prasad | Technical Blog</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="style.css">
     <link rel='icon' href='favicon.ico' type='image/x-icon'/ >
@@ -32,9 +32,10 @@ if ($iphone || $android || $palmpre || $ipod || $berry == true)
       <a href="#about">Blog</a>
   </div>
 </div>
-    <h3>Sumit K. Prasad</h3>
-  <p>Today, I find myself pursuing a M.C.A at Guru Gobind Singh Indraprastha University, Delhi, India in pursuit of contributing towards human progress in technology. I've undertaken a satisfying journey of making mistakes, reflecting on them and employing the lessons learned. </p>
-  <p>On this website you can find information and reflections about my projects, professional experiences, and education.</p>
-    </body>    
+    <h3>Welcome to blog</h3>
+    <p>Welcome to technical blog
+        
+    </body>
+  
 
 </html>
